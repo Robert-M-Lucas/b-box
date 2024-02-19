@@ -1,0 +1,9 @@
+[package]
+name = "b-box"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+keywords = ["box"]
+description = "Aliases Box::new to b!"
+
+[dependencies]
